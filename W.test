@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html>
+  <head>  
+		<title> my web page </title>
+    </head>
+    <body>
+      <h1> Dog Website </h1>
+      <p1> Welcom to the dog website. everything you want to know about dogs is in this website.</p1>
+      <br>
+      <br>
+      <br>      
+        <h2> this is a section about small dogs </h2>
+        <p2> small dogs are good for kids. </p2>
+      <ul>
+        <li> Pug </li>
+        <li> Papillan </li> 
+        <li> Shih Tzu </li>
+      </ul>
+       <br>
+       <br>
+       <tabel border=1>
+          <tr>
+            <th> Pug </th>
+            <th> Papillan </th>
+            <th> Shih Tzu </th>           
+          </tr>
+          <tr>
+            <td> 11 inches </td>
+            <td> 11 inches </td>
+            <td> 11 inches </td>
+         </tr>  
+            
+      </tabel>
+
+  </body>
+</html>
